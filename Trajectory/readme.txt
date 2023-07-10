@@ -1,0 +1,3 @@
+the symbol - is used to denote regions of atmosphere considered "upper" atmosphere (>86km). Here no atmospheric data is provided
+during the landing phase the legs are dropped at an alitutde of around 100m and take a couple of seconds to lock. There is no specific CAD file for variour leg drop positions during this phase.
+CoG is given in metres from the exit plane of engine 9 (central nozzle). Symmetry in other axes assumed.
