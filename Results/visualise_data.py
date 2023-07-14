@@ -30,12 +30,6 @@ T=np.load(path + 'T_data.npy')
 #heat flux data not provided for adia (0 heat flux)
 q=np.load(path + 'q_data.npy')
 
-#calculate the wall shear stresses from skin friction
-# tx=cfx*pdyns[int(traj_pnt)-1]
-# ty=cfy*pdyns[int(traj_pnt)-1]
-# tz=cfz*pdyns[int(traj_pnt)-1]
-# t_prime=np.sqrt(tx**2+ty**2+tz**2)
-
 #normalise for the colormap
 var_norm = (eval(var2plot) - var_min) / (var_max - var_min)
 #import and modify the colormap from matplotlib
