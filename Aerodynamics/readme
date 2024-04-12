@@ -1,2 +1,7 @@
-files can be visualised using the free visualisation software Open3D
-sample python script to process the data is given here under "visualise_data.py"
+where numpy files are provided:
+	files can be visualised using the free visualisation software Open3D
+	Sample python script to process the data is given here under "visualise_data.py"
+Surface files in .vtk format are paraview (opensource CFD post processing)
+Folders organised by first and second stage
+subfolders are the conferences where the papers were presented
+

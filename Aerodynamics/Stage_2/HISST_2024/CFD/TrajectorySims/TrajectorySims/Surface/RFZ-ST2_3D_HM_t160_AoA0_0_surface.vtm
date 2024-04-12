@@ -1,0 +1,12 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="nozzle_exit" file="vtk/RFZ-ST2_3D_HM_t160_AoA0_0_surface_nozzle_exit.vtu">
+    </DataSet>
+    <DataSet index="1" name="fairing" file="vtk/RFZ-ST2_3D_HM_t160_AoA0_0_surface_fairing.vtu">
+    </DataSet>
+    <DataSet index="2" name="tank" file="vtk/RFZ-ST2_3D_HM_t160_AoA0_0_surface_tank.vtu">
+    </DataSet>
+    <DataSet index="3" name="nozzle" file="vtk/RFZ-ST2_3D_HM_t160_AoA0_0_surface_nozzle.vtu">
+    </DataSet>
+  </vtkMultiBlockDataSet>
+</VTKFile>

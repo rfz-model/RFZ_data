@@ -1,1 +1,6 @@
 original data from bell nozzle with kerosine fuel
+rfz.out is the cea output for both nozzles
+stage 1 contour is contour for 1st stage
+stage 2 contour is contour for 2nd stage
+Stage2_exit_eq is the tau CFD exit profile from equilibirium simulations
+
